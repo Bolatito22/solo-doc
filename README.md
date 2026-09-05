@@ -21,3 +21,22 @@ GitHub stores repositories online, while GitHub Desktop gives you a visual
 interface for managing them. This lets you use version control without relying
 entirely on command-line Git.
 GitHub's [Hello World tutorial](https://docs.github.com/en/get-started/usinggithub/hello-world) explains the basic concepts.
+
+## 3.   Create and Publish a Repository
+
+Create a **public repository** and open it in GitHub Desktop. At the top level,
+create a file named `index.html`. Add a link back to your repository:
+```html
+<a href="YOUR-REPOSITORY-URL">Link to repository</a>
+```
+Save the file. In GitHub Desktop:
+1. Review your changed files.
+2. Write a short commit message.
+3. Click **Commit to main**.
+4. Click **Push origin**.
+A **commit** records the saved version of your work. **Pushing** sends those commits from
+your computer to GitHub.
+
+## 4.   Publish with GitHub Pages
+
+GitHubs Pages turns 
