@@ -16,4 +16,8 @@ See [VS Code's extension documentation](https://code.visualstudio.com/docs/confi
 
 ## 2.   Set up GitHub
 
-Create a free
+Create a free account at [GitHub](https://github.com/) and install [GitHub Desktop](https://desktop.github.com/).
+GitHub stores repositories online, while GitHub Desktop gives you a visual
+interface for managing them. This lets you use version control without relying
+entirely on command-line Git.
+GitHub's [Hello World tutorial](https://docs.github.com/en/get-started/usinggithub/hello-world) explains the basic concepts.
